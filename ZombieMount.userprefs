@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\sound\ChangeMusicVolume.cs">
+    <Files>
+      <File FileName="Assets\script\gerak.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\rotasi.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\ScreenTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\sound\ChangeMusicVolume.cs" Line="17" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
